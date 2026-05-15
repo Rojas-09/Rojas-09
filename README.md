@@ -22,14 +22,13 @@ Me especializo en diseñar lógicas de negocio robustas, optimizar bases de dato
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### 🛠️ Stack Tecnológico
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rojas-09&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub de Rojas-09" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rojas-09&layout=compact&theme=tokyonight&hide=html,css" alt="Lenguajes más usados por Rojas-09" height="180px"/>
-</p>
-
----
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📫 ¿Cómo contactarme?
 
