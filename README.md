@@ -34,3 +34,4 @@ Me especializo en diseñar lógicas de negocio robustas, optimizar bases de dato
 
 * **Correo Institucional:** [juan.rojas7@utp.edu.co](mailto:juan.rojas7@utp.edu.co)
 * **Ubicación:** Pereira, Risaralda, Colombia 🇨🇴
+* **Portafolio:** https://3d-portfolio-ps6zs0xjb-juanrojas7-7764s-projects.vercel.app/
